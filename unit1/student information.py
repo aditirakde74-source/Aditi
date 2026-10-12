@@ -1,0 +1,6 @@
+studentname = input("enter your name")
+branch = input("enter your branch")
+year = input("enter your year")
+print(f"hello,{studentname}")
+print(f"{branch}")
+print(f"{year}")

@@ -1,0 +1,5 @@
+hour=int(input("enter hours:"))
+minute=int(input("enter minutes:"))
+seconds=int(input("enter seconds:"))
+angle=(hour*30)+(minute*0.5)+(seconds/120)
+print(f"the angle is ,{angle}degree")
