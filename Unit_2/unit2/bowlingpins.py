@@ -6,4 +6,3 @@ for i in range (k):
     for j in range(start-1,end):
         pins[j]="."
 print("".joins(pins))
-     

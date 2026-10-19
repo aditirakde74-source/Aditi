@@ -1,5 +1,5 @@
-marks=65
-attendence=80
+marks=int(input("enter the marks:"))
+attendence=int(input("enter the attendance:"))
 marks_ok =marks>=65
 attendence_ok=attendence>=80
 eligible=marks_ok and attendence_ok
